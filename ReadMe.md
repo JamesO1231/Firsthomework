@@ -1,0 +1,4 @@
+On this homework I edited a webpage to ensure the code is less complicated and runs smoothly.
+The first thing I did was go through the code and find any repeating lines of code. The duplicates were deleted. 
+After I removed any duplicatd code I started to work on the div tags. I removed tags that did not fit the structure I was going for. After I removed those tags, I renamed the div tags to express the function of the spicific part I am targeting. 
+Last, I reviewed the CSS to make sure all elements were targeting the right area of the html. I had to change text size and margin where those changes were required. I then organized all of the CSS so that I could read it easier. I grouped all like parts together.  
